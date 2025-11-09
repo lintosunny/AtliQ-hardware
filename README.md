@@ -1,0 +1,2 @@
+# AtliQ-hardware
+Analytics project
