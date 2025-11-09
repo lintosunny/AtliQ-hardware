@@ -19,34 +19,14 @@ AtliQ sells through three primary channels:
 
 This multi-channel strategy enables AtliQ to optimize distribution, strengthen brand reach, and maximize revenue through both B2B partnerships and direct consumer engagement.
 
-## Key Terms & Metrics
-### 1. Gross Price
-The total price before any deductions.
+### Key Terms & Metrics
 
-### 2. Pre-Invoice Deductions
-Discounts or deductions applied before the invoice is generated.
-
-### 3. Net Invoice Sales
-Sales after pre-invoice deductions.
-
-Formula: ```Gross Price - Pre-Invoice Deductions```
-
-### 4. Post-Invoice Deductions
-Deductions given after invoicing (e.g., rebates, returns).
-
-### 5. Net Sales
-
-Actual revenue after all deductions.
-
-Formula: ```Net Invoice Sales - Post-Invoice Deductions```
-
-### 6. Cost of Goods Sold (COGS)
-
-Total cost incurred to produce and deliver the product.
-
-Formula: ```COGS = Manufacturing Cost + Freight (Transportation) + Other Costs```
-
-### 7. Gross Margin
-Profitability metric showing how much profit is made after covering COGS.
-
-Formula: ```Gross Margin = Net Sales - COGS```
+| **Metric** | **Description** | **Formula** |
+|-------------|-----------------|--------------|
+| **Gross Price** | Total price before any deductions. | — |
+| **Pre-Invoice Deductions** | Discounts or deductions applied before the invoice is generated. | — |
+| **Net Invoice Sales** | Sales after pre-invoice deductions. | **Gross Price – Pre-Invoice Deductions** |
+| **Post-Invoice Deductions** | Deductions applied after invoicing (e.g., rebates, returns). | — |
+| **Net Sales** | Actual revenue after all deductions. | **Net Invoice Sales – Post-Invoice Deductions** |
+| **Cost of Goods Sold (COGS)** | Total cost incurred to produce and deliver the product. | **COGS = Manufacturing Cost + Freight (Transportation) + Other Costs** |
+| **Gross Margin** | Profitability metric showing profit after covering COGS. | **Gross Margin = Net Sales – COGS** |
