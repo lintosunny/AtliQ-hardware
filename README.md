@@ -28,5 +28,10 @@ This multi-channel strategy enables AtliQ to optimize distribution, strengthen b
 | **Net Invoice Sales** | Sales after pre-invoice deductions. | **Gross Price – Pre-Invoice Deductions** |
 | **Post-Invoice Deductions** | Deductions applied after invoicing (e.g., rebates, returns). | — |
 | **Net Sales** | Actual revenue after all deductions. | **Net Invoice Sales – Post-Invoice Deductions** |
-| **Cost of Goods Sold (COGS)** | Total cost incurred to produce and deliver the product. | **COGS = Manufacturing Cost + Freight (Transportation) + Other Costs** |
-| **Gross Margin** | Profitability metric showing profit after covering COGS. | **Gross Margin = Net Sales – COGS** |
+| **Cost of Goods Sold (COGS)** | Total cost incurred to produce and deliver the product. | **Manufacturing Cost + Freight (Transportation) + Other Costs** |
+| **Gross Margin** | Profitability metric showing profit after covering COGS. | **Net Sales – COGS** |
+
+### Entity Relationship Diagram (ERD)
+
+
+## Insights
