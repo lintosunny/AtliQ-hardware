@@ -1,4 +1,4 @@
-# AtliQ-hardware
+![img](altiq_hardwares.jpg)
 
 ## Problem Statement
 As a Data Analyst at AtliQ Hardware, my objective is to develop a product sales analysis aggregated at the product level.
