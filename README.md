@@ -19,7 +19,9 @@ AtliQ sells through three primary channels:
 
 This multi-channel strategy enables AtliQ to optimize distribution, strengthen brand reach, and maximize revenue through both B2B partnerships and direct consumer engagement.
 
-### Key Terms & Metrics
+## Key Terms & Metrics
+
+<div style="font-size: 9px;">
 
 | **Metric** | **Description** | **Formula** |
 |-------------|-----------------|--------------|
@@ -31,7 +33,9 @@ This multi-channel strategy enables AtliQ to optimize distribution, strengthen b
 | **Cost of Goods Sold (COGS)** | Total cost incurred to produce and deliver the product. | **Manufacturing Cost + Freight (Transportation) + Other Costs** |
 | **Gross Margin** | Profitability metric showing profit after covering COGS. | **Net Sales – COGS** |
 
-### Entity Relationship Diagram (ERD)
+</div>
+
+## Entity Relationship Diagram (ERD)
 
 
 ## Insights
